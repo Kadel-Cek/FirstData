@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<mspell-exceptions xmlns="http://www.kwsoft.de/mspell/exceptions" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+
+  <includes>
+    <!-- Erläuterung:
+	    Trennstellen für ein Wort vereinbaren:	<word>Früh_warn_service</word> 
+	    Wort in Wortliste aufnehmen:			<word>Frühwarnservice</word> 
+	    Trennung für ein Wort verhindern:		<word>_Frühwarnservice</word> 
+	    Wort am Satzanfang auch 
+	    klein geschrieben akzeptieren           <word enforce-case="true">kühn</word>
+    -->
+	<word>Abgeltungsteuer</word>
+	<word>Ablauffonds</word>
+	<word>Aktionsschwerpunkt</word>
+	<word>Gleichbehandlungsgesetz</word>
+	<word>Altervorsorge-Produkt</word>
+	<word>Bottom-Up-Planung</word>
+	<word>Dekosystem</word>
+	<word>Elektronik-Pauschal-Softwareversicherung</word>
+	<word>Ertragsausschüttung</word>
+	<word>Fahneneinleger</word>
+	<word>Feuer-Inventarversicherung</word>
+	<word>Flipchartplakat</word>
+	<word>Frühwarnservice</word>
+	<word>Gesamtkapitalabfindung</word>
+	<word>Gewinnspielplakat</word>
+	<word>Give-aways</word>
+	<word>_Gmbh</word>
+	<word>Imageprofilierung</word>
+	<word>Imageprospekt</word>
+	<word>Investmentfondstyp</word>
+	<word>Jahrhundert-Unwetter</word>
+	<word>Jugendversicherung</word>
+	<word>Kampagnenmanagementsystem</word>
+	<word>Kaskokunde</word>
+	<word>key-visual</word>
+	<word>Magnetpins</word>
+	<word>Mallorcapolice</word>
+	<word>Kundengruppenmanagement</word>
+	<word>Maschinenbrandversicherung</word>
+	<word>Maximalentschädigung</word>
+	<word>Morgen-&amp;-Morgen-Rating</word>
+	<word>m-rating</word>
+	<word>map-rating</word>
+	<word>map-report</word>
+	<word>Plexiglasaufsteller</word>
+	<word>Sale</word>
+	<word>p-rating</word>
+	<word>ZusatzRente</word>
+	<word>PrivatVorsorge</word>
+	<word>Reiserückrufservice</word>
+	<word>Schließfachinhaltversicherung</word>
+	<word>Servicetasche</word>
+	<word>Serviceversicherer</word>
+	<word>Sicherheitsclip</word>
+	<word>Sparkassen-Aktionsanzeige</word>
+	<word>Sparkassengeschäftsstelle</word>
+	<word>SuperKasko</word>
+	<word>SuperKaskoversicherung</word>
+	<word>Teilkapitalabfindung</word>
+	<word>Textplakat</word>
+	<word>Typklassenverzeichnis</word>
+	<word>Überschussanteilsätze</word>
+	<word>UnfallSpar</word>
+	<word>Unterstellungsverfügung</word>
+	<word>Value-at-Risk-Konzept</word>
+	<word>Verkehrshaftungsversicherung</word>
+	<word>Vertreter-Aktionsanzeige</word>
+	<word>Vorsorgelogo</word>
+	<word>Weblogic</word>
+	<word>Wohnsicherheits-Check</word>
+  </includes>
+  <excludes>
+    <word>fileÖffnen</word>
+    <word>Filedisk</word>
+  </excludes>
+
+</mspell-exceptions>
